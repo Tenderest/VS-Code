@@ -2,6 +2,7 @@
 
 1. 安装
 - 我的发行版是Arch，可通过AUR或者官方源下载
+
     'sudo pacman -S visual-studio-code-bin'
 2. 使用
     1. 安装好以后打开即用
