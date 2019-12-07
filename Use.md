@@ -26,3 +26,8 @@
 launch.json | 启动任务的配置
 tasks.json | 进行编译来生成任务的配置
 c_cpp_properties.json | 设置头文件路径、设置使用编译器路径、语言标准、表示编译器模式
+
+### 微软开源字体Cascadia-Code安装
+
+1. 在Github上找到项目的Releases下载.ttf字体（这个仓库也上传了版本是1911.21）
+2. 进行字体安装操作即可
