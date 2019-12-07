@@ -29,5 +29,5 @@ c_cpp_properties.json | 设置头文件路径、设置使用编译器路径、�
 
 ### 微软开源字体Cascadia-Code安装
 
-1. 直接` **Pacman**` 安装即可，包的名称是`ttf-cascadia-code-版本`
+1. 直接` **Pacman**` 安装即可，包的名称是`ttf-cascadia-code`
 2. 打开VS Code设置连字功能，添加控制字体`Cascadia Code`即可，用单引号引住
