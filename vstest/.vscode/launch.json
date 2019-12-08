@@ -15,6 +15,7 @@
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",
+            "preLaunchTask": "build", // 调试会话开始前要运行的任务
             "miDebuggerPath": "D:/MinGW/bin/gdb.exe",
             "setupCommands": [
                 {
@@ -34,6 +35,7 @@
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
             "environment": [],
+            "preLaunchTask": "build", // 调试会话开始前要运行的任务
             "externalConsole": true
         }
     ]
